@@ -4,5 +4,7 @@ public class App {
         // BUG RESOLVIDO
         // comentário inserido na branch main
         System.out.println("Estevam Cabral");
+        // alteração
+        // ALTERAÇÃO COMPLETA
     }
 }
