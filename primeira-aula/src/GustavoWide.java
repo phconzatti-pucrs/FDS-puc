@@ -1,3 +1,5 @@
 public class GustavoWide(){
-    System.out.println("Gustavo Fulber Wide");
+    public static void main(string[] args){
+        System.out.println("Gustavo Fulber Wide");
+    }
 }
